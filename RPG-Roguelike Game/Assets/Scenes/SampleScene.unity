@@ -227,7 +227,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 360697855}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.4327364, y: -1.5201367, z: 0}
+  m_LocalPosition: {x: 6.67, y: -3.89, z: 0}
   m_LocalScale: {x: 3.0949728, y: 2.4597266, z: 6.374}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -287,7 +287,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 7
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -386,8 +386,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8fc8b074fd8f5f44ea05e17a4ead1303, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 8
+  moveSpeed: 7
   jumpForce: 12
+  dashSpeed: 25
+  dashDuration: 0.25
+  dashCooldown: 1.4
   groundCheckDistance: 1.4
   whatIsGround:
     serializedVersion: 2
@@ -618,8 +621,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1816639891}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.2962, y: -3.19, z: 0}
-  m_LocalScale: {x: 15.351321, y: 1, z: 1}
+  m_LocalPosition: {x: -0.0587, y: -5.64, z: 0}
+  m_LocalScale: {x: 24.046072, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
