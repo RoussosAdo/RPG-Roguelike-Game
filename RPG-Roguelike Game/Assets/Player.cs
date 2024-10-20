@@ -160,6 +160,10 @@ public class Player : Entity
         
     }
 
+    protected override void CollisionChecks()
+    {
+        base.CollisionChecks();
+    }
 
-    
+
 }
