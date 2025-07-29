@@ -25,7 +25,6 @@ Only you can wield the legendary **Blades of Ashenfire** — forged to drive out
 The game was designed from scratch using **Miro** to map all gameplay systems, mechanics, and interactions.
 
 ### 📌 Design Planning (Miro)
-![Miro Design Plan](images/Blades_Of_Ashesnfire.jpg)  
 🔗 [View Full Miro Board](https://miro.com/app/board/uXjVLNVe_G4=/?share_link_id=689210783040)
 
 
@@ -79,7 +78,7 @@ Each element in the Miro board was directly implemented using Unity systems, Ani
 
 ## 🎮 Play the Game
 
-👉 [Play Blades of Ashenfire on Itch.io](https://ohestisgames.itch.io/blades-of-ashenfire)
+👉 [Play Blades of Ashenfire on Itch.io](https://ohestisgames.itch.io/blades-of-ashenfire-demo)
 
 ---
 
