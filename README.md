@@ -25,7 +25,7 @@ Only you can wield the legendary **Blades of Ashenfire** — forged to drive out
 The game was designed from scratch using **Miro** to map all gameplay systems, mechanics, and interactions.
 
 ### 📌 Design Planning (Miro)
-![Miro Full Plan](https://raw.githubusercontent.com/RoussosAdo/RPG-GAME-/main/images/Blades_Of_Ashesnfire.jpg)
+![Miro Full Plan](https://miro.com/app/board/uXjVLNVe_G4=)
 
 ### Core Categories:
 - 🎮 Player State Machine (movement, skills, attacks, parry, dash)
